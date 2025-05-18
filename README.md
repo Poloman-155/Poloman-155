@@ -12,7 +12,7 @@ Still junior? Sure. Still learning? Always. But I bring hunger, hustle, and an e
 - **WordPress Tinkering** – Themes, plugins, and making WP bend to my will  
 
 ## Tech Stack  
-`HTML5` • `CSS3` • `JavaScript` • `Bootstrap` • `jQuery` • `WordPress`
+`HTML5` • `CSS3` • `JavaScript` • `Bootstrap` • `jQuery` • `WordPress` • `PHP`
 
 ## Currently Cooking  
 - Honing my JS & animation game  
