@@ -2,7 +2,7 @@
 *Turning pixels into purpose, one line of code at a time.*
 
 ## About Me  
-I’m a creative soul with a thing for clean design, smooth interactions, and websites that *don’t suck*. Whether it’s whipping up landing pages or tweaking WordPress themes, I’m all about crafting digital experiences that look good and feel right.  
+I’m a creative soul with a thing for clean design, smooth interactions, and websites that *don’t suck*.  
 
 Still junior? Sure. Still learning? Always. But I bring hunger, hustle, and an eye for detail.
 
@@ -12,7 +12,7 @@ Still junior? Sure. Still learning? Always. But I bring hunger, hustle, and an e
 - **WordPress Tinkering** – Themes, plugins, and making WP bend to my will  
 
 ## Tech Stack  
-`HTML5` • `CSS3` • `JavaScript` • `Bootstrap` • `jQuery` • `WordPress` • `PHP`
+`HTML5` • `CSS3` • `JavaScript` • `Bootstrap` • `jQuery` • `WordPress` • `PHP` • `React`
 
 ## Currently Cooking  
 - Honing my JS & animation game  
