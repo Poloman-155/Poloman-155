@@ -1,4 +1,4 @@
-# Hey, I'm Polo — Web Designer in the Making  
+# Hey, I'm Polo 
 *Turning pixels into purpose, one line of code at a time.*
 
 ## About Me  
